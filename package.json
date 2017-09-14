@@ -28,7 +28,7 @@
         "url": "https://github.com/zone117x/node-stratum-pool.git"
     },
     "dependencies": {       
-        "multi-hashing": "git://github.com/vegacoin/node-multi-hashing-tribus.git",
+        "multi-hashing": "git://github.com/sennevb/node-multi-hashing-tribus.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
